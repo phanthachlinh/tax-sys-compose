@@ -1,0 +1,28 @@
+
+
+Sat Feb  8 13:06:58 2020
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.3.0-29-generic (#31-Ubuntu SMP Fri Jan 17 17:27:26 UTC 2020) x86_64
+Compiler: GCC 9.2
+ext2fs lib: 1.45.3, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.1
+User is not root!
+Hard disk list
+
+
+TestDisk exited normally.
+Using locale 'en_US.UTF-8'.
+
+
+Sat Feb  8 13:06:58 2020
+Command line: TestDisk /debug
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.3.0-29-generic (#31-Ubuntu SMP Fri Jan 17 17:27:26 UTC 2020) x86_64
+Compiler: GCC 9.2
+ext2fs lib: 1.45.3, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.1

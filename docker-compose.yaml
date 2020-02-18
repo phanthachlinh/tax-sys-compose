@@ -10,8 +10,10 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: example
+      MONGO_INITDB_DATABASE: taxDB
     volumes:
       - ./mongo/data/db:/data/db
+      - ./mongo/docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d
   db:
     image: mysql
     command: --default-authentication-plugin=mysql_native_password
